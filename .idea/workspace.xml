@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f4f066-230a-4bbf-a784-ee15d0f94056" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c60qUpsgkQ45jePC1wzDMToLan" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f4f066-230a-4bbf-a784-ee15d0f94056" name="Default Changelist" comment="" />
+      <created>1589833927003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589833927003</updated>
+      <workItem from="1589833929954" duration="24389000" />
+      <workItem from="1589924078948" duration="1821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1589836534520">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1589836534520" />
+    <state x="708" y="295" key="FileChooserDialogImpl" timestamp="1589836223236">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="708" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1589836223236" />
+    <state x="430" y="182" key="SettingsEditor" timestamp="1589861644736">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="182" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1589861644736" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589835891247">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1858.1080@0.0.1858.1080" timestamp="1589835891247" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589924236321">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1589924236321" />
+  </component>
+</project>
